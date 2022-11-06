@@ -1,7 +1,7 @@
 <?php
-$databaseHost = 'ec2-3-227-68-43.compute-1.amazonaws.com';
-$databaseUsername = 'vdvqukkqojpxcx';
-$databasePassword = 'ca0db8f4a49d007703d8c2923e5b7ad7c33f5c564e26e959269ee8f0be3aa219';
-$databaseName = 'd4q20qm01628s';
+$databaseHost = 'ec2-44-205-177-160.compute-1.amazonaws.com';
+$databaseUsername = 'kxnejnuswwwqot';
+$databasePassword = '346cbdb84eb2bcb934788e7e427b0452660f3eb09a88bf28ebc173dd9f9721df';
+$databaseName = 'dcu7aq99o0njc4';
 $path2Phps = '';
 $baseurl = '';?>
